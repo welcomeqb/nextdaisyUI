@@ -42,10 +42,13 @@ export default function About() {
       </div>
 
       <div className="mt-12 text-center">
-        <div className="badge badge-lg badge-primary mx-1">Next.js</div>
-        <div className="badge badge-lg badge-secondary mx-1">TypeScript</div>
-        <div className="badge badge-lg badge-accent mx-1">DaisyUI</div>
-        <div className="badge badge-lg badge-info mx-1">Tailwind</div>
+        <a href="/about/team" className="btn btn-primary">View Our Team</a>
+        <div className="mt-8">
+          <div className="badge badge-lg badge-primary mx-1">Next.js</div>
+          <div className="badge badge-lg badge-secondary mx-1">TypeScript</div>
+          <div className="badge badge-lg badge-accent mx-1">DaisyUI</div>
+          <div className="badge badge-lg badge-info mx-1">Tailwind</div>
+        </div>
       </div>
     </div>
   );
