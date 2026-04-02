@@ -28,6 +28,7 @@ export default function RootLayout({
               <li><Link href="/tutorial">Python Tutorial</Link></li>
               <li><Link href="/themestyle">Theme Style</Link></li>
               <li><Link href="/components">Components</Link></li>
+              <li><Link href="/servertime">Server Time</Link></li>
             </ul>
             <div className="dropdown dropdown-end md:hidden">
               <div tabIndex={0} role="button" className="btn btn-ghost btn-square">
@@ -41,6 +42,7 @@ export default function RootLayout({
                 <li><Link href="/tutorial">Python Tutorial</Link></li>
                 <li><Link href="/themestyle">Theme Style</Link></li>
                 <li><Link href="/components">Components</Link></li>
+                <li><Link href="/servertime">Server Time</Link></li>
               </ul>
             </div>
           </div>
