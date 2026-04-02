@@ -35,7 +35,7 @@ export default function About() {
               <li>5 pages: Home, About, Python Tutorial, Theme Style, Components</li>
               <li>Responsive design with mobile-friendly navigation</li>
               <li>DaisyUI components showcase</li>
-              <li>Clean, rounded UI design qb 1</li>
+              <li>Clean, rounded UI design qb 222</li>
             </ul>
           </div>
         </div>
